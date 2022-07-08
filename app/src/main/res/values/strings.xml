@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Bulletin</string>
+    <string name="home_title">Welcome to Bulletin</string>
+    <string name="static_btn">Static Bulletin</string>
+    <string name="dynamic_btn">Dynamic Bulletin</string>
+    <string name="a">The head of the FBI and the leader of Britain’s domestic intelligence agency raised fresh alarms Wednesday about the Chinese government, warning business leaders that Beijing is determined to steal their technology for competitive gain.
+    FBI Director Christopher Wray reaffirmed longstanding concerns in denouncing economic espionage and hacking operations by China as well as the Chinese government’s efforts to stifle dissent abroad. But his speech was notable because it took place at MI5’s London headquarters and alongside the agency’s director general, Ken McCallum, in an intended show of Western solidarity.</string>
+
+    <string name="b">Boris Johnson on Wednesday refused to quit as Britain’s prime minister, despite calls from senior ministerial colleagues to go after dozens of resignations from his scandal-hit government.
+    A Cabinet delegation had awaited his return to Downing Street from a lengthy grilling by a parliamentary committee to tell him his time was up.It was said to include hard-line Interior Minister Priti Patel and Nadhim Zahawi, who has barely been 24 hours in his new job of Finance Minister.
+    </string>
+
+    <string name="c">A prominent Pakistani TV anchorperson known for publicly supporting former Prime Minister Imran Khan was arrested Tuesday on the outskirts of the capital, his colleagues said.
+    It was unclear on what charges police arrested Imran Riaz Khan.
+    </string>
+
+    <string name="d">China’s state media and officials have lent support to Pakistan’s opposition to India hosting any G20-related meetings in Jammu and Kashmir next year.
+    Those statements came even as the Chinese government has hailed the completion of its first major hydropower project under the China Pakistan Economic Corridor (CPEC) on the Jhelum river on the border of Punjab and the western part of Pakistan-occupied Kashmir (PoK), what Pakistan calls “AJK”. The dam was built by China Three Gorges Corporation.
+    </string>
+
+    <string name="e">Russia claimed on Sunday to have captured the strategic Ukrainian city of Lysychansk and the entire frontline Luhansk region as a mayor said six people were killed by Russian shelling to the west.
+    The mayor of Sloviansk, 75 kilometres (45 miles) west of Lysychansk, reported the heaviest Russian shelling “for a long time,” saying that a child was among six people killed, with another 15 people wounded and 15 fires sparked.
+    </string>
+
+    <string name="f">A gunman opened fire inside a busy shopping mall in the Danish capital on Sunday, killing several people and wounding several others, police said.
+    A 22-year-old Danish man was arrested after the shooting, Copenhagen police inspector Søren Thomassen told reporters, adding there was no indication that anyone else was involved, though police were still investigating.
+    </string>
+
+    <string name="g">North Korea on Sunday slammed the United States, South Korea and Japan for pushing to boost their trilateral military cooperation targeting the North, warning that the move is prompting urgent calls for the country to reinforce its military capability.
+    North Korea has long cited what it calls hostility by the United States and its allies as a reason to pursue a nuclear program. Sunday’s statement comes as North Korea’s neighbours say the country is ready for its first nuclear test in five years as part of its provocative run of weapons tests this year.
+    “The prevailing situation more urgently calls for building up the country’s defense to actively cope with the rapid aggravation of the security environment of the Korean Peninsula and the rest of the world,” the North Korean Foreign Ministry said in a statement, without elaborating how it would boost its military capacity.
+    </string>
+</resources>
