@@ -1,18 +1,18 @@
 package com.example.bulletin.landing
 
+import android.graphics.Color
 import android.os.Bundle
-import android.os.Handler
+import android.text.Html
+import android.text.method.LinkMovementMethod
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.view.WindowManager
-import android.widget.Button
-import android.widget.Toast
-import androidx.appcompat.app.AppCompatActivity
+import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.findNavController
 import com.example.bulletin.R
 import com.example.bulletin.databinding.FragmentLandingBinding
+
 
 /**
  * An example full-screen fragment that shows and hides the system UI (i.e.
@@ -42,6 +42,9 @@ class LandingFragment : Fragment() {
             findNavController().navigate(R.id.action_homeFragment_to_dynamicFragment)
         }
 
+        val linkTextView = binding.sourceCodeLink as TextView
+        linkTextView.movementMethod = LinkMovementMethod.getInstance();
+        linkTextView.setLinkTextColor(Color.BLUE)
         return binding.root
 
     }
